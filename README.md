@@ -8,7 +8,7 @@ I'm a PhD student in _Astrophysics and Cosmology_ at the International School fo
 - **[Personal SISSA page](https://www.sissa.it/ap/members.php?ID=9117)**
   
 ### Interests
-I am currently working on modelling for stellar and binary evolution. I am mostly interested in binary systems that undergo mass transfer and in the stability of this process. 
+I am currently working on modelling for stellar and binary evolution. I am mostly interested in binary systems that undergo mass transfer and in the stability of this process. Right now, I am trying to implement new cool tracks inside the binary population synthesis code SEVN.
 
 
 ---
